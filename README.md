@@ -61,22 +61,86 @@
   </tr>
 </table>
 
-<h2 align="left">Skills</h2>
+<h2 align="left">🛠️ Skills</h2>
 
 ###
 
-<ul align="left">
-  <li><strong>Designing:</strong> Figma, Prototyping, Wireframing</li>
-  <li><strong>Programming Languages:</strong> Dart, JavaScript, Java</li>
-  <li><strong>Frameworks & Libraries:</strong> Flutter, Firebase, GetX, Spring, NodeJS, Express, Supabase, Bloc</li>
-  <li><strong>Backend Development:</strong> REST API development, Microservices, Dependency Injection, Authentication</li>
-  <li><strong>Database Management:</strong> MySQL, PostgreSQL, MongoDB, SQL Optimization, Query Performance Tuning</li>
-  <li><strong>Cloud Services:</strong> Huawei Fusion Platform, Unit Testing, Integration Testing, Mocking Frameworks (Mockito, JUnit)</li>
-  <li><strong>Soft Skills:</strong> Leadership, Time Management, Critical Thinking, Adaptability, Collaboration, Problem-Solving, Creativity, Communication, Attention to Detail, Agile Development</li>
-  <li><strong>Languages:</strong> English (IELTS C1), Arabic (Native)</li>
-</ul>
+<div align="left">
+  <h4>👨‍💻 Programming Languages</h4>
+  <ul>
+    <li>Dart</li>
+    <li>JavaScript</li>
+    <li>Java</li>
+  </ul>
+</div>
 
-###
+<div align="left">
+  <h4>🚀 Frameworks & Libraries</h4>
+  <ul>
+    <li>Flutter</li>
+    <li>Firebase</li>
+    <li>GetX</li>
+    <li>Spring</li>
+    <li>NodeJS</li>
+    <li>Express</li>
+    <li>Supabase</li>
+    <li>Bloc</li>
+  </ul>
+</div>
+
+<div align="left">
+  <h4>💾 Database Management</h4>
+  <ul>
+    <li>MySQL</li>
+    <li>PostgreSQL</li>
+    <li>MongoDB</li>
+    <li>SQL Optimization</li>
+    <li>Query Performance Tuning</li>
+  </ul>
+</div>
+
+<div align="left">
+  <h4>☁️ Cloud & Testing</h4>
+  <ul>
+    <li>Huawei Fusion Platform</li>
+    <li>Unit Testing</li>
+    <li>Integration Testing</li>
+    <li>Mocking Frameworks (Mockito, JUnit)</li>
+  </ul>
+</div>
+
+<div align="left">
+  <h4>🎨 Designing</h4>
+  <ul>
+    <li>Figma</li>
+    <li>Prototyping</li>
+    <li>Wireframing</li>
+  </ul>
+</div>
+
+<div align="left">
+  <h4>🤝 Soft Skills</h4>
+  <ul>
+    <li>Leadership</li>
+    <li>Time Management</li>
+    <li>Critical Thinking</li>
+    <li>Adaptability</li>
+    <li>Collaboration</li>
+    <li>Problem-Solving</li>
+    <li>Creativity</li>
+    <li>Communication</li>
+    <li>Attention to Detail</li>
+    <li>Agile Development</li>
+  </ul>
+</div>
+
+<div align="left">
+  <h4>🌍 Languages</h4>
+  <ul>
+    <li>English (IELTS C1)</li>
+    <li>Arabic (Native)</li>
+  </ul>
+</div>
 
 <h2 align="left">Certifications</h2>
 
