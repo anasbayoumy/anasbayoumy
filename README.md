@@ -38,15 +38,28 @@
 
 ###
 
-<h2 align="left">Education</h2>
+<h2 align="left">🎓 Education</h2>
 
 ###
 
-<p align="left">🎓 <strong>B.Sc. Computer Engineering and Software Systems</strong>  
-Dual Degree Program at Ain Shams University / University of East London (2022 – Present)  
-- **Relevant Coursework:** Design Patterns, SOLID Principles, Data Structures, Algorithms, Object-Oriented Programming, Clean Architecture</p>
-
-###
+<table align="left">
+  <tr>
+    <td><strong>B.Sc. Computer Engineering and Software Systems</strong></td>
+    <td>2022 – Present</td>
+  </tr>
+  <tr>
+    <td colspan="2">Dual Degree Program at Ain Shams University & University of East London</td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <ul>
+        <li>📚 <strong>Relevant Coursework:</strong></li>
+        <li>Design Patterns, SOLID Principles, Data Structures, Algorithms</li>
+        <li>Object-Oriented Programming, Clean Architecture</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <h2 align="left">Skills</h2>
 
