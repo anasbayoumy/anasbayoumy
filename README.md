@@ -61,6 +61,8 @@
   </tr>
 </table>
 
+<br><br><br>
+
 <h2 align="left">🛠️ Skills</h2>
 
 ###
@@ -68,79 +70,81 @@
 <div align="left">
   <h4>👨‍💻 Programming Languages</h4>
   <ul>
-    <li>Dart</li>
-    <li>JavaScript</li>
-    <li>Java</li>
+    <li><strong>Dart</strong></li>
+    <li><strong>JavaScript</strong></li>
+    <li><strong>Java</strong></li>
   </ul>
 </div>
 
 <div align="left">
   <h4>🚀 Frameworks & Libraries</h4>
   <ul>
-    <li>Flutter</li>
-    <li>Firebase</li>
-    <li>GetX</li>
-    <li>Spring</li>
-    <li>NodeJS</li>
-    <li>Express</li>
-    <li>Supabase</li>
-    <li>Bloc</li>
+    <li><strong>Flutter</strong></li>
+    <li><strong>Firebase</strong></li>
+    <li><strong>GetX</strong></li>
+    <li><strong>Spring</strong></li>
+    <li><strong>NodeJS</strong></li>
+    <li><strong>Express</strong></li>
+    <li><strong>Supabase</strong></li>
+    <li><strong>Bloc</strong></li>
   </ul>
 </div>
 
 <div align="left">
   <h4>💾 Database Management</h4>
   <ul>
-    <li>MySQL</li>
-    <li>PostgreSQL</li>
-    <li>MongoDB</li>
-    <li>SQL Optimization</li>
-    <li>Query Performance Tuning</li>
+    <li><strong>MySQL</strong></li>
+    <li><strong>PostgreSQL</strong></li>
+    <li><strong>MongoDB</strong></li>
+    <li><strong>SQL Optimization</strong></li>
+    <li><strong>Query Performance Tuning</strong></li>
   </ul>
 </div>
 
 <div align="left">
   <h4>☁️ Cloud & Testing</h4>
   <ul>
-    <li>Huawei Fusion Platform</li>
-    <li>Unit Testing</li>
-    <li>Integration Testing</li>
-    <li>Mocking Frameworks (Mockito, JUnit)</li>
+    <li><strong>Huawei Fusion Platform</strong></li>
+    <li><strong>Unit Testing</strong></li>
+    <li><strong>Integration Testing</strong></li>
+    <li><strong>Mocking Frameworks (Mockito, JUnit)</strong></li>
   </ul>
 </div>
 
 <div align="left">
   <h4>🎨 Designing</h4>
   <ul>
-    <li>Figma</li>
-    <li>Prototyping</li>
-    <li>Wireframing</li>
+    <li><strong>Figma</strong></li>
+    <li><strong>Prototyping</strong></li>
+    <li><strong>Wireframing</strong></li>
   </ul>
 </div>
 
 <div align="left">
   <h4>🤝 Soft Skills</h4>
   <ul>
-    <li>Leadership</li>
-    <li>Time Management</li>
-    <li>Critical Thinking</li>
-    <li>Adaptability</li>
-    <li>Collaboration</li>
-    <li>Problem-Solving</li>
-    <li>Creativity</li>
-    <li>Communication</li>
-    <li>Attention to Detail</li>
-    <li>Agile Development</li>
+    <li><strong>Leadership</strong></li>
+    <li><strong>Time Management</strong></li>
+    <li><strong>Critical Thinking</strong></li>
+    <li><strong>Adaptability</strong></li>
+    <li><strong>Collaboration</strong></li>
+    <li><strong>Problem-Solving</strong></li>
+    <li><strong>Creativity</strong></li>
+    <li><strong>Communication</strong></li>
+    <li><strong>Attention to Detail</strong></li>
+    <li><strong>Agile Development</strong></li>
   </ul>
 </div>
 
 <div align="left">
   <h4>🌍 Languages</h4>
   <ul>
-    <li>English (IELTS C1)</li>
-    <li>Arabic (Native)</li>
+    <li><strong>English (IELTS C1)</strong></li>
+    <li><strong>Arabic (Native)</strong></li>
   </ul>
 </div>
+
+<br><br>
 
 <h2 align="left">Certifications</h2>
 
