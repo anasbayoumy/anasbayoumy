@@ -1,7 +1,7 @@
 
 <h1 align="center">Hey 👋 What's up?</h1>
 
-<p align="center">I’m <strong>Anas Bayoumy</strong>, a passionate software engineer and UI/UX designer from Egypt. Currently, I’m the Founder and Flutter Developer at <strong>SOFINDEX</strong>, crafting seamless user experiences and scalable software solutions!</p>
+<p align="center">I’m <strong>Anas Bayoumy</strong>, a passionate software engineer and UI/UX designer from Egypt. Currently, I’m a Flutter Developer at <strong>SOFINDEX</strong>, crafting seamless user experiences and scalable software solutions!</p>
 
 ---
 
