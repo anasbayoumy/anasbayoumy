@@ -1,7 +1,7 @@
 
 <h1 align="center">Hey 👋 What's up?</h1>
 
-<p align="center">I’m <strong>Anas Bayoumy</strong>, a passionate software engineer and UI/UX designer from Egypt. Currently, I’m a Flutter Developer at <strong>SOFINDEX</strong>, crafting seamless user experiences and scalable software solutions!</p>
+<p align="center">I’m <strong>Anas Bayoumy</strong>, a passionate software engineer and UI/UX designer from Egypt. Currently, I’m a Flutter Developer at <strong>SOFINDEX</strong>, crafting seamless user experiences and scalable software solutions! also startig learning .Net technology.</p>
 
 ---
 
@@ -31,7 +31,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" /> 
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/.Net/.net-original.svg" height="40" alt="spring logo" />
 </div>
 
 ---
