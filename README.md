@@ -1,66 +1,67 @@
+<h1 align="center">Hey 👋 I'm Anas Bayoumy</h1>
 
-<h1 align="center">Hey 👋 What's up?</h1>
-
-<p align="center">I’m <strong>Anas Bayoumy</strong>, a passionate software engineer and UI/UX designer from Egypt. Currently, I’m a Flutter Developer at <strong>SOFINDEX</strong>, crafting seamless user experiences and scalable software solutions! also starting learning .Net technology.</p>
+<p align="center">
+I’m <strong>Anas Bayoumy</strong> — a software engineer and UI/UX designer from Egypt.  
+Dual-degree Computer Engineering student (Ain Shams University & University of East London).  
+I build Flutter apps, design UX in Figma, and work with cloud & backend tech including .NET and Azure.
+</p>
 
 ---
 
 ## About Me
 
-✨ Creating bugs since 2022  
-📚 Currently learning advanced clean architecture, testing frameworks, and state management tools in Flutter  
-🎯 Goals: Lead innovative projects and grow SOFINDEX into a leading tech company  
-🎲 Fun Fact: I thrive on solving design and code challenges in my free time
-
----
-
-## I Code With
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" /> 
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg" height="40" alt=".NET logo" />
-</div>
+✨ Creating solutions (and the occasional bug) since 2022  
+📚 Currently expanding knowledge in .NET (ASP.NET Core, Entity Framework), cloud services (Azure/AWS), and advanced Flutter architecture (Clean Architecture, Bloc/Cubit, GetX)  
+🎯 Goal: Lead innovative products and grow SOFINDEX into a leading tech company  
+🎲 Fun fact: I enjoy solving design + code challenges in my free time
 
 ---
 
 ## Education
 
-**B.Sc. Computer Engineering and Software Systems**  
-*Dual Degree Program — Ain Shams University & University of East London (2022 – Present)*
+**B.Eng. Computer Engineering — Dual Degree**  
+*University of East London / Ain Shams University* — Expected **May 2027**
 
-**Relevant Coursework:**  
-- Design Patterns  
-- SOLID Principles  
-- Data Structures & Algorithms  
-- Object-Oriented Programming  
-- Clean Architecture
+**Relevant coursework:** Data Structures & Algorithms, Operating Systems, AI & Machine Learning, Design Patterns, OOP, SOLID
 
 ---
 
-## Skills
+## Experience
 
-**Programming Languages:** Dart, JavaScript, Java  
-**Frameworks & Libraries:** Flutter, Firebase, GetX, Spring, NodeJS, Express, Supabase, Bloc  
-**Database Management:** MySQL, PostgreSQL, MongoDB, SQL Optimization, Query Performance Tuning  
-**Cloud & Testing:** Huawei Fusion Platform, Unit Testing, Integration Testing, Mockito, JUnit  
-**Designing:** Figma, Prototyping, Wireframing  
-**Soft Skills:** Leadership, Time Management, Critical Thinking, Adaptability, Collaboration, Problem-Solving, Creativity, Communication, Attention to Detail, Agile Development  
-**Languages:** English (IELTS C1), Arabic (Native)
+**CIB — IT Intern (Hybrid)**  
+*Aug 2025 – Present*  
+-
+
+**Crédit Agricole Bank — Software Engineer Intern (On-Site)**  
+*July 2025 – Aug 2025*  
+- Implemented microservices with .NET Core and Entity Framework, improving API response time by ~25% and reducing server load by ~30%.  
+- Optimized SQL/Oracle queries and indexing to improve application performance.
+
+**SOFINDEX — Junior Software Engineer (Flutter) (Remote)**  
+*Jan 2025 – Aug 2025*  
+- Designed and implemented responsive Flutter UI components, improving user satisfaction metrics.  
+- Adopted Agile Scrum practices to accelerate feature delivery and cross-team collaboration.
+
+---
+
+## Competitions & Achievements
+
+**Google DeepMind — Gemma 3n Hackathon** *(June 2025 – Present)*  
+- Built an offline emergency app that analyzes voice & images to generate instant, location-based help and first-aid guidance.  
+- Integrated Wear OS voice input for real-time SMS incident alerts.
+
+---
+
+## Technical Skills
+
+**Languages:** C++, C, Java, JavaScript, Dart, Python, HTML, CSS  
+**Mobile / Frontend:** Flutter, React.js, Figma (UI/UX & prototyping)  
+**Backend / Cloud:** ASP.NET Core, Entity Framework, REST, OAuth/JWT, Azure Functions, Azure App Services, AWS services  
+**State & Architecture:** Bloc, Cubit, GetX, Clean Architecture  
+**Databases:** SQL Server, MySQL, Oracle, Supabase, MongoDB  
+**Testing & CI/CD:** Unit & Integration testing (Mockito, JUnit), CI/CD concepts  
+**Concepts:** Compiler design, OS, AI/ML, On-device AI, API development, Database normalization, Agile
+
 
 ---
 
