@@ -28,10 +28,11 @@ I build Flutter apps, design UX in Figma, and work with cloud & backend tech inc
 
 ## Experience
 
+
+
 **CIB — IT Intern (Hybrid)**  
 *Aug 2025 – Present*  
--
-
+  
 **Crédit Agricole Bank — Software Engineer Intern (On-Site)**  
 *July 2025 – Aug 2025*  
 - Implemented microservices with .NET Core and Entity Framework, improving API response time by ~25% and reducing server load by ~30%.  
