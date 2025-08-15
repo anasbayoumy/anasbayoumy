@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 I'm Anas Bayoumy</h1>
 
 <p align="center">
-I’m <strong>Anas Bayoumy</strong> — a software engineer chasing prefection.  
+I’m <strong>Anas Bayoumy</strong> — a software engineer chasing perfection.  
 Dual-degree Computer Engineering student (University of East London & Ain Shams University).  
 I build Flutter apps, design UX in Figma, and work with cloud & backend tech including NodeJS.
 </p>
