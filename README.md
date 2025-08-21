@@ -3,7 +3,7 @@
 <p align="center">
 I’m <strong>Anas Bayoumy</strong> — a software engineer chasing perfection.  
 Dual-degree Computer Engineering student (University of East London & Ain Shams University).  
-I build Flutter apps, design UX in Figma, and work with cloud & backend tech including NodeJS.
+I build Flutter apps, design UX in Figma, and work with cloud & backend tech including Node.js & Express.
 </p>
 
 ---
@@ -11,7 +11,7 @@ I build Flutter apps, design UX in Figma, and work with cloud & backend tech inc
 ## About Me
 
 ✨ Creating solutions (and the occasional bug) since 2022  
-📚 Currently expanding knowledge in .NET (ASP.NET Core, Entity Framework), cloud services (Azure/AWS), and advanced Flutter architecture (Clean Architecture, Bloc/Cubit, GetX)  
+📚 Currently expanding knowledge in Node.js (Express.js, REST APIs, authentication), cloud services (Azure/AWS), and advanced Flutter architecture (Clean Architecture, Bloc/Cubit, GetX)  
 🎯 Goal: Lead innovative products and grow SOFINDEX into a leading tech company  
 🎲 Fun fact: I enjoy solving design + code challenges in my free time
 
@@ -28,20 +28,19 @@ I build Flutter apps, design UX in Figma, and work with cloud & backend tech inc
 
 ## Experience
 
-
-
 **CIB — IT Intern (Hybrid)**  
 *Aug 2025 – Present*  
   
 **Crédit Agricole Bank — Software Engineer Intern (On-Site)**  
 *July 2025 – Aug 2025*  
-- Implemented microservices with .NET Core and Entity Framework, improving API response time by ~25% and reducing server load by ~30%.  
-- Optimized SQL/Oracle queries and indexing to improve application performance.
+- Developed and optimized backend microservices using **Node.js & Express**, improving API response times by ~25%.  
+- Improved database queries (SQL/Oracle) with indexing and caching strategies, reducing server load by ~30%.  
 
 **SOFINDEX — Junior Software Engineer (Flutter) (Remote)**  
 *Jan 2025 – Aug 2025*  
 - Designed and implemented responsive Flutter UI components, improving user satisfaction metrics.  
-- Adopted Agile Scrum practices to accelerate feature delivery and cross-team collaboration.
+- Adopted Agile Scrum practices to accelerate feature delivery and cross-team collaboration.  
+- Built REST APIs with Node.js to connect Flutter frontends with scalable backends.
 
 ---
 
@@ -49,7 +48,8 @@ I build Flutter apps, design UX in Figma, and work with cloud & backend tech inc
 
 **Google DeepMind — Gemma 3n Hackathon** *(June 2025 – Present)*  
 - Built an offline emergency app that analyzes voice & images to generate instant, location-based help and first-aid guidance.  
-- Integrated Wear OS voice input for real-time SMS incident alerts.
+- Integrated Wear OS voice input for real-time SMS incident alerts.  
+- Backend powered by **Node.js** with optimized API endpoints for fast local-device interaction.
 
 ---
 
@@ -57,12 +57,11 @@ I build Flutter apps, design UX in Figma, and work with cloud & backend tech inc
 
 **Languages:** C++, C, Java, JavaScript, Dart, Python, HTML, CSS  
 **Mobile / Frontend:** Flutter, React.js, Figma (UI/UX & prototyping)  
-**Backend / Cloud:** ASP.NET Core, Entity Framework, REST, OAuth/JWT, Azure Functions, Azure App Services, AWS services  
+**Backend / Cloud:** Node.js, Express.js, REST APIs, GraphQL, OAuth/JWT, Supabase, Azure Functions, Azure App Services, AWS services  
 **State & Architecture:** Bloc, Cubit, GetX, Clean Architecture  
-**Databases:** SQL Server, MySQL, Oracle, Supabase, MongoDB  
-**Testing & CI/CD:** Unit & Integration testing (Mockito, JUnit), CI/CD concepts  
+**Databases:** MongoDB, MySQL, SQL Server, Oracle, Supabase  
+**Testing & CI/CD:** Unit & Integration testing (Jest, Supertest, Mockito, JUnit), CI/CD pipelines  
 **Concepts:** Compiler design, OS, AI/ML, On-device AI, API development, Database normalization, Agile
-
 
 ---
 
@@ -80,4 +79,4 @@ I build Flutter apps, design UX in Figma, and work with cloud & backend tech inc
 📧 [anasbayoumy20@gmail.com](mailto:anasbayoumy20@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/anasbayoumy)  
 🎨 [Behance](https://www.behance.net/anasbayoumy)  
-📞 +20 102 281 0077
+📞 +20 102 281 0077
