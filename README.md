@@ -77,5 +77,6 @@ I build cross-platform apps with Flutter, design UX in Figma, and develop cloud-
 
 - 💼 https://www.linkedin.com/in/anasbayoumy  
 - 📧 anasbayoumy20@gmail.com  
-- 🧑‍💻 https://github.com/anasbayoumy  
+- 🧑‍💻 https://github.com/anasbayoumy
+- 🧑‍💻 https://leetcode.com/u/anasbayoumy/
 - ☏ +20 102 281 0077
