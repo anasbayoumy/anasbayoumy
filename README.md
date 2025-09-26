@@ -12,7 +12,7 @@ I build cross-platform apps with Flutter, design UX in Figma, and develop cloud-
 
 - ✨ Building solutions (and the occasional bug) since 2022.  
 - 🎯 Goal: lead product teams and help grow SOFINDEX into a market-leading tech company.  
-- 📚 Currently deepening experience in Node.js (Express, REST, auth), cloud services (Azure / AWS), and advanced Flutter architecture (Clean Architecture, BLoC/Riverpod).  
+- 📚 Currently deepening experience in Node.js (Express, REST, auth), cloud services (AWS), CI/CD and DevOps Concepts,and advanced Flutter architecture (Clean Architecture, BLoC/Riverpod).  
 - 🎲 Fun: I enjoy design + code challenges in my spare time.
 
 ---
@@ -22,7 +22,7 @@ I build cross-platform apps with Flutter, design UX in Figma, and develop cloud-
 **B.Eng. Computer Engineering (Dual Degree)**  
 *University of East London / Ain Shams University* — Expected **May 2027**
 
-**Relevant coursework:** Data Structures & Algorithms, Operating Systems, System Design, Design Patterns, OOP, SOLID, API Development
+**Relevant coursework:** Data Structures & Algorithms, Operating Systems, System Design, Design Patterns, OOP, SOLID, API Development, Message Broker
 
 ---
 
